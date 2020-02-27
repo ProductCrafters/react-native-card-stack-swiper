@@ -503,6 +503,7 @@ CardStack.defaultProps = {
   onSwipeStart: () => null,
   onSwipeEnd: () => null,
   onSwiped: () => { },
+  onSwipe: () => { },
   onSwipedLeft: () => { },
   onSwipedRight: () => { },
   onSwipedTop: () => { },
